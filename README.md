@@ -16,12 +16,10 @@ The files for the calculator project are organized as follows:
 calculator/
   ├── index.html
   ├── style.css
-  └── script.js
 ```
 
 - `index.html`: This file contains the HTML structure of the calculator.
 - `style.css`: This file contains the CSS styling rules for the calculator.
-- `script.js`: This file contains the JavaScript code to handle calculator functionality.
 
 ## Getting Started
 
@@ -36,7 +34,7 @@ To run the calculator, follow these steps:
 2. Click on the number buttons to input numbers.
 3. Click on the operation buttons (+, -, *, /) to perform arithmetic operations.
 4. The result will be displayed in the calculator screen.
-5. Click on the clear button (C) to reset the calculator.
+5. Click on the clear button (AC) to reset the calculator.
 
 ## Keyboard Support
 
@@ -47,8 +45,6 @@ The calculator also supports keyboard input. Use the following keys:
 - -: Perform subtraction.
 - *: Perform multiplication.
 - /: Perform division.
-- Enter/Return: Calculate the result.
-- Escape: Clear the calculator.
 
 ## Customization
 
@@ -56,11 +52,11 @@ The appearance and style of the calculator can be customized by modifying the `s
 
 ## Compatibility
 
-The calculator is developed using HTML, CSS, and JavaScript, which are supported by modern web browsers. It is compatible with popular browsers such as Chrome, Firefox, Safari, and Edge.
+The calculator is developed using HTML and CSS which are supported by modern web browsers. It is compatible with popular browsers such as Chrome, Firefox, Safari, and Edge.
 
 ## Credits
 
-The calculator project was developed by [Your Name] as a demonstration of HTML, CSS, and JavaScript skills.
+The calculator project was developed by [Mounish] as a demonstration of HTML and CSS skills.
 
 ## License
 
